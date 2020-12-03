@@ -1,0 +1,17 @@
+C:\Users\Alçınkaya\source\repos\Ardalcinkaya park\Ardalcinkaya park\bin\Debug\Ardalcinkayapark.exe.config
+C:\Users\Alçınkaya\source\repos\Ardalcinkaya park\Ardalcinkaya park\bin\Debug\Ardalcinkayapark.exe
+C:\Users\Alçınkaya\source\repos\Ardalcinkaya park\Ardalcinkaya park\bin\Debug\Ardalcinkayapark.pdb
+C:\Users\Alçınkaya\source\repos\Ardalcinkaya park\Ardalcinkaya park\obj\Debug\Ardalcinkaya park.csprojAssemblyReference.cache
+C:\Users\Alçınkaya\source\repos\Ardalcinkaya park\Ardalcinkaya park\obj\Debug\Ardalcinkaya park.csproj.ResolveComReference.cache
+C:\Users\Alçınkaya\source\repos\Ardalcinkaya park\Ardalcinkaya park\obj\Debug\Ardalcinkayapark.Anamenu.resources
+C:\Users\Alçınkaya\source\repos\Ardalcinkaya park\Ardalcinkaya park\obj\Debug\Ardalcinkayapark.arabagiris.resources
+C:\Users\Alçınkaya\source\repos\Ardalcinkaya park\Ardalcinkaya park\obj\Debug\Ardalcinkayapark.aracikis.resources
+C:\Users\Alçınkaya\source\repos\Ardalcinkaya park\Ardalcinkaya park\obj\Debug\Ardalcinkayapark.Form1.resources
+C:\Users\Alçınkaya\source\repos\Ardalcinkaya park\Ardalcinkaya park\obj\Debug\Ardalcinkayapark.gecmis.resources
+C:\Users\Alçınkaya\source\repos\Ardalcinkaya park\Ardalcinkaya park\obj\Debug\Ardalcinkayapark.giris.resources
+C:\Users\Alçınkaya\source\repos\Ardalcinkaya park\Ardalcinkaya park\obj\Debug\Ardalcinkayapark.konum.resources
+C:\Users\Alçınkaya\source\repos\Ardalcinkaya park\Ardalcinkaya park\obj\Debug\Ardalcinkayapark.Properties.Resources.resources
+C:\Users\Alçınkaya\source\repos\Ardalcinkaya park\Ardalcinkaya park\obj\Debug\Ardalcinkaya park.csproj.GenerateResource.cache
+C:\Users\Alçınkaya\source\repos\Ardalcinkaya park\Ardalcinkaya park\obj\Debug\Ardalcinkaya park.csproj.CoreCompileInputs.cache
+C:\Users\Alçınkaya\source\repos\Ardalcinkaya park\Ardalcinkaya park\obj\Debug\Ardalcinkayapark.exe
+C:\Users\Alçınkaya\source\repos\Ardalcinkaya park\Ardalcinkaya park\obj\Debug\Ardalcinkayapark.pdb
